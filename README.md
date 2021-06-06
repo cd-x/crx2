@@ -4,12 +4,12 @@ Budget manager chrome extension
 
 ## Pop up page
 
-![popup](screesnshots/popup.png)
+![popup](https://github.com/cd-x/crx2/blob/master/screesnshots/popup.png)
 
 ## Options page
 
-![Options](screesnshots/options.png)
+![Options](https://github.com/cd-x/crx2/blob/master/screesnshots/options.png)
 
 ## Context Menu page
 
-![contextMenu](screesnshots/contextMenu.png)
+![contextMenu](https://github.com/cd-x/crx2/blob/master/screenshots/contextMenu.png)
